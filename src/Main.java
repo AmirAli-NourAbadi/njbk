@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
         amirali<Double> dgg = new amirali<>();
         dgg.add(5.5);
-        System.out.println("fg");
+        System.out.println("geh"0);
         System.out.println(dgg.get());
 
     }
